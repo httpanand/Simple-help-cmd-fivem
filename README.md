@@ -1,2 +1,6 @@
 # Simple-help-cmd-fivem
-A simple script which shows some defined texts . Eg : Typing /help to console gives website links etc .
+# Edit this script to your liking . Its so simple , just check help_cmd.lua .
+```
+ 1 -> Move this folder to your resource folder.
+ 2 -> Include in your server.cfg .
+ 3 -> Start your server .
